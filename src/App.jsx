@@ -1,8 +1,8 @@
 import React from 'react';
-import Bienvenue from './exercices/Ex1_Bienvenue/Bienvenue';
-import Compteur from './exercices/Ex2_Compteur/Compteur';
-import Formulaire from './exercices/Ex3_Formulaire/Formulaire';
-import ListeCourses from './exercices/Ex4_ListeCourses/ListeCourses';
+import Bienvenue from "./exercices/ex1/bienvenue";
+import Compteur from "./exercices/ex2/compteur";
+import Formulaire from "./exercices/ex3/formulaire";
+import ListeCourses from "./exercices/ex4/listeCourses";
 
 function App() {
   return (
