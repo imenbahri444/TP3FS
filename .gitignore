@@ -1,0 +1,6 @@
+# Ignorer fichiers temporaires et OneDrive
+*.tmp
+*.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
